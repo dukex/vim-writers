@@ -1,5 +1,7 @@
 # Vim Writers
 
+[Video}(http://vimeo.com/dukex/vim-para-escritores)
+
 ## Install
 
 ```
